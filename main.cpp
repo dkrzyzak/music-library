@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include "main.h"
 
 using namespace std;
 
@@ -10,6 +11,7 @@ struct YearException : public exception {
         return "Nie można wydać. Data wydania nie została jeszcze osiągnieta.";
     }
 };
+
 class Song {
    private:
     string Artist;

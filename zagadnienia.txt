@@ -18,5 +18,5 @@
 - własny szablon klasy (lub funkcji)
 - przeciążanie operatorów +
 - wyjątki +
-- plik .h z deklaracja i .cpp z definicją metod - linker
+- plik .h z deklaracja i .cpp z definicją metod - linker +
 
