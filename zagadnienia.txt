@@ -1,7 +1,7 @@
 1. Projekt obiektowy:
 - klasy +
 - konstruktory, destruktory +
-- konstruktor kopiujący
+- konstruktor kopiujący +
 - deklaracja przyjaciela
 - dziedziczenie +
 - polimorfizm
@@ -14,7 +14,7 @@
 - algorytmy
 
 3. C++
-- zakresowa pętla for
+- zakresowa pętla for +
 - własny szablon klasy (lub funkcji)
 - przeciążanie operatorów +
 - wyjątki +
